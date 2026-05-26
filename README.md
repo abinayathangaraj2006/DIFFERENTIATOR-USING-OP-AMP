@@ -58,5 +58,5 @@ GRAPH:
 
 
 RESULT:
-![IMG_20251203_142730 1](https://github.com/user-attachments/assets/83d73b40-8c07-484b-a41a-915c3c96622e)
+![IMG_20251203_142730 1](https://github.com/user-attachments/assets/83d73b40-8c07-484b-a41a-915c3c96622e.
 
